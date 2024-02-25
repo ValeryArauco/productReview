@@ -19,6 +19,13 @@
     height: 400px; /* Altura fija para todas las imágenes */
 }
 
+.advertisement-space {
+    background-color: #f8f9fa; /* Color de fondo */
+    padding: 20px; /* Espacio interno */
+    margin-top: 20px; /* Espacio superior */
+    margin-bottom: 20px; /* Espacio inferior */
+}
+
 .row{
     margin-top: 40px;
 }
