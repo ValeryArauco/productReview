@@ -66,3 +66,17 @@
 .media-body{
     margin-left: 20px;
 }
+
+.btn i {
+    font-size: 1.5rem; /* Tamaño del icono */
+}
+
+/* Ajustar el tamaño de los botones */
+.btn-block {
+    width: 300px; /* Altura de los botones */
+    height: 80px;
+    font-size: 1.2rem; /* Tamaño del texto del botón */
+    
+}
+
+
